@@ -143,7 +143,7 @@
     "react-waypoint": "^9.0.2",
     "rich-markdown-editor": "^10.4.0",
     "semver": "^7.3.2",
-    "sequelize": "^5.21.1",
+    "sequelize": "^6.21.2",
     "sequelize-cli": "^5.5.0",
     "sequelize-encrypted": "^0.1.0",
     "slate": "0.45.0",
